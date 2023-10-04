@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=8.1",
-        "symfony/framework-bundle": "^6.3",
+        "symfony/framework-bundle": "^5.4",
         "symfony/messenger": "^6.3",
         "zenstruck/bytes": "^0.2.0",
         "zenstruck/collection": "^0.2.2"
